@@ -1433,13 +1433,13 @@ button {
 }
 
 .site-footer {
-  padding: 72px 0;
+  padding:5px 0;
   background: var(--bg);
-  border-top: 8px solid var(--divider);
+  border-top: 2px solid var(--divider);
 }
 
 .footer-title {
-  margin: 0 0 24px;
+  margin: 0 0 5px;
   color: var(--muted);
   font-size: 1rem;
 }
